@@ -11,3 +11,6 @@ const person = {
 let {name} = person;
 let {age} = person;
 document.getElementById("cs").innerHTML = name + age;
+
+
+ 
